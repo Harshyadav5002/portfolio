@@ -1,4 +1,5 @@
 # Harsh • Personal Portfolio Website
+https://6a686fbcaa11d100ee0aa29a--cheery-mermaid-d6d2d9.netlify.app/
 
 <div align="center">
 
@@ -174,7 +175,8 @@ This is a **professional, fully responsive portfolio website** designed to showc
 ## Live Demo
 
 ### View Online
-**Live Demo:** [https://harshyadav5002.github.io/portfolio](https://harshyadav5002.github.io/portfolio)
+**Live Demo:** (https://6a686fbcaa11d100ee0aa29a--cheery-mermaid-d6d2d9.netlify.app/)
+[https://harshyadav5002.github.io/portfolio](https://harshyadav5002.github.io/portfolio)
 
 ### Interactive Features to Try
 1. **Explore Animations** - Scroll down to see scroll-triggered animations
