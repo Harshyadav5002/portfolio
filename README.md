@@ -677,7 +677,7 @@ See [LICENSE](LICENSE) file for details.
 ## 👥 Author & Contact
 
 **Harsh Yadav**
-- 📧 Email: [222635@kit.ac.in](mailto:222635@kit.ac.in)
+- 📧 Email: [222635@kit.ac.in](mailto:harshdollor11@gmail.com)
 - 💼 LinkedIn: [harsh-a49798280](https://linkedin.com/in/harsh-a49798280)
 - 💻 GitHub: [@Harshyadav5002](https://github.com/Harshyadav5002)
 -
