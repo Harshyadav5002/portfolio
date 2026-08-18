@@ -680,7 +680,7 @@ See [LICENSE](LICENSE) file for details.
 - 📧 Email: [222635@kit.ac.in](mailto:222635@kit.ac.in)
 - 💼 LinkedIn: [harsh-a49798280](https://linkedin.com/in/harsh-a49798280)
 - 💻 GitHub: [@Harshyadav5002](https://github.com/Harshyadav5002)
-- 📱 Phone: +91-6392695138
+-
 
 ### About Me
 B.Tech Computer Science (AI & ML) student at Kanpur Institute of Technology, graduating in 2026. Passionate about building impactful software with machine learning and modern web technologies.
